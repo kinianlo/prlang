@@ -1,8 +1,9 @@
-strawberry, apple: round, red, sweet
-cat, dog: cute furry lovely friendly sweet
-potato, yam: orange, startchy, healthy
-cucumber, courgette: green, long, juicy
-daisy, marigold: yellow, small, beautiful
+strawberry, apple, cherry: round, red, sweet, sour, rotten
+cat, dog: cute, furry, lovely, friendly, sweet
+potato, yam: orange, starchy, healthy, big
+cucumber, courgette: green, long, juicy, tasty
+daisy, marigold: yellow, small, beautiful, everywhere
 daisy, sunflower, coreopsis: yellow, small, beautiful
 moth, butterfly: winged, colorful, light, beautiful
-dolphin, porpoise: grey, wet, slippery
+dolphin, porpoise: grey, wet, slippery, slim
+car, bus: fast, sturdy, safe, heavy
