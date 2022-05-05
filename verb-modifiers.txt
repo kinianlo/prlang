@@ -1,6 +1,7 @@
-strawberry, apple: sold, bought, washed, eaten
-potato, yam: sold, cleaned, pilled, eaten, roasted
+strawberry, apple: sold, bought, washed, eaten, rotten
 cucumber, courgette: pilled, sliced, eaten, boiled
+cat, dog: fed, groomed, treated
+potato, yam: sold, cleaned, pilled, eaten, roasted
 daisy, marigold: planted, watered, picked
 daisy, sunflower: planted, watered, picked
 moth, butterfly: flew, sat, pollinated, flickered

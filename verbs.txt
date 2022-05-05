@@ -1,7 +1,0 @@
-strawberry, apple: sold, bought, washed, eaten
-Sweet potatoe, yam: sold, cleaned, pilled, eaten, roasted
-cucumber, courgette: pilled, sliced, eaten, boiled
-Daisy, Marigold: planted, watered, picked
-Daisy, false Sunflower, coreopsis: planted, watered, picked
-Moth, Butterfly: flew, sat, pollinated, flickered
-Dolphin, porpoise: swam, dived, spotted, surfaced, trained
