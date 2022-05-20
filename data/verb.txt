@@ -1,0 +1,2 @@
+strawberry, apple: sold, bought, washed, eaten, rotten, cooked, chilled, steamed
+cat, dog: fed, groomed, treated
