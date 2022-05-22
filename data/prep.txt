@@ -1,3 +1,2 @@
-apple, strawberry: on the table, in a dish, in the fridge, in the bin
-boy, girl: in the bathroom, in the kitchen, in the house, in the car, in the room, on the bus
-
+apple, strawberry: on the table, in a dish, in the fridge
+boy, girl: from the town, at the school, near the shop, on a bus 
