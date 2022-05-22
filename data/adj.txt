@@ -1,9 +1,9 @@
 cat, dog: cute, furry, lovely, friendly, sweet, big, small, house, young, large, wild, dead, thirsty, hungry, good, gray, black, little
 girl, boy: little, beautiful, young, pretty, small, baby, teenage
 man, woman: young, dead, little, big, strange, beautiful, tall
-strawberry, apple, cherry: round, red, sweet, sour, rotten
+strawberry, apple: round, red, sweet, sour, rotten
 daisy, marigold: yellow, small, beautiful, everywhere
-daisy, sunflower, coreopsis: yellow, small, beautiful
+daisy, sunflower: yellow, small, beautiful
 moth, butterfly: winged, colorful, light, beautiful
 cucumber, courgette: green, long, juicy, tasty
 dolphin, porpoise: grey, wet, slippery, slim
